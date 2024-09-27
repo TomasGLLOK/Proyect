@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Sofia Hernandez",
+      "phone": 5583720848
+    },
+    {
+      "id": "f97b",
+      "name": "Tomas Losada",
+      "phone": "5580068441"
+    },
+    {
+      "id": "a32d",
+      "name": "Claudio Losada",
+      "phone": "987454512"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+.alert {
+    color: crimson;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: lightgray;
+    margin: 10px;
+    border-color: crimson;
+}
